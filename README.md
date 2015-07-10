@@ -1,3 +1,0 @@
-# Bootstrap
-Boostrap CoGeo
-Change
